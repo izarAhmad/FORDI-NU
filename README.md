@@ -1,4 +1,4 @@
-# FORDINU (Forum Digital NU)
+# FORDINU (Forum Diskusi NU)
 
 FORDINU adalah aplikasi berbasis web yang dibangun menggunakan **Laravel Framework**  
 untuk mendukung pengelolaan informasi dan aktivitas organisasi secara digital.
